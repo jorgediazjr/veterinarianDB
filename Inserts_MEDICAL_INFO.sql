@@ -1,0 +1,11 @@
+insert into MEDICAL_INFO values (1, 'Heartworm medication', 'History of heartworms. No sign of heartworms in last 2 years.', 'None');
+insert into MEDICAL_INFO values (2, 'Heartworm medication', 'Perfectly healthy. Healthy weight and active.', 'None');
+insert into MEDICAL_INFO values (3, 'Flea medication', 'Suffered a herniated disc 5 years ago. Had surgery to repair the disc. Recovered nicely and is perfectly healthy. A bit overweight', 'None');
+insert into MEDICAL_INFO values (4, 'Flea medication, Pain medication, Anti-Inflammatory', 'Has had problems in the past with hips. Prescribed pain relievers and anti inflammatory medicine to reduce swelling.', 'Geico');
+insert into MEDICAL_INFO values (5, 'Anti-Inflammatory', 'Cancer developed in jaw. Surgery removed the tumor. Perfectly healthy and prescribed anti-inflammation to reduce swelling.', 'None');
+insert into MEDICAL_INFO values (6, 'Flea medication, Heartworm medication', 'Recently contracted fleas. Otherwise clean medical history', 'Nationwide');
+insert into MEDICAL_INFO values (7, 'Flea medication', 'Perfectly healthy.', 'None');
+insert into MEDICAL_INFO values (8, 'Pain Reliever, Anti-Inflammatory', 'Recently had surgery for torn acl.', 'Embrace');
+insert into MEDICAL_INFO values (9, 'Flea Medication', 'Recently had fleas. No sign of fleas within last 2 weeks', 'Geico');
+insert into MEDICAL_INFO values (10, 'None', 'Perfectly healthy.', 'None');
+SELECT * FROM MEDICAL_INFO;

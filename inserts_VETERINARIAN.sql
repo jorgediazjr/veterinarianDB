@@ -1,0 +1,11 @@
+insert into VETERINARIAN values (1, 'David Anzaldi', '544 Shirley Rd. South Ozone Park, NY 11420');
+insert into VETERINARIAN values (2, 'Justin Hogan', '7662 Monroe St. Bronx, NY 10462');
+insert into VETERINARIAN values (3, 'Erica Medina', '179 Anderson Drive Bronx, NY 10468');
+insert into VETERINARIAN values (4, 'Hunter King', '94 Cedarwood Street Brooklyn, NY 11220');
+insert into VETERINARIAN values (5, 'Jorge Diaz', '69 W. Country Club Avenue Massapequa, NY 11758');
+insert into VETERINARIAN values (6, 'Solymon Hatami', '7754 Lexington Street Bronx, NY 10463');
+insert into VETERINARIAN values (7, 'Alexis Sanchez', '8518 High Point Drive Astoria, NY 11106');
+insert into VETERINARIAN values (8, 'Cristiano Ronaldo', '3 Lake View Dr. Brooklyn, NY 11236');
+insert into VETERINARIAN values (9, 'Lionel Messi', '38 Rocky River Lane Bronx, NY 10469');
+insert into VETERINARIAN values (10, 'Arturo Vidal', '787 Randall Mill Street Jamaica, NY 11432');
+select * from VETERINARIAN;

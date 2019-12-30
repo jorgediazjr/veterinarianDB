@@ -1,0 +1,7 @@
+DROP TABLE VETERINARIAN cascade constraints;
+CREATE TABLE VETERINARIAN(
+	Vet_ID NUMBER(9),
+	Vet_name VARCHAR2(50),
+	Address VARCHAR2(65),
+	PRIMARY KEY (Vet_ID)
+);

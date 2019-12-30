@@ -1,0 +1,11 @@
+insert into OWNER values (1, 1, 'Enrique Gambra', '4 Camp Drive Selden, NY 11784', 7161267);
+insert into OWNER values (2, 1, 'Enrique Gambra', '4 Camp Drive Selden, NY 11784', 7161267);
+insert into OWNER values (3, 1, 'Enrique Gambra', '4 Camp Drive Selden NY, 11784', 7161267);
+insert into OWNER values (4, 2, 'Zac Rodgers', '5 Camp Drive Selden NY, 11784', 7362559);
+insert into OWNER values (5, 1, 'Enrique Gambra', '4 Camp Drive Selden NY, 11784', 7161267);
+insert into OWNER values (6, 3, 'Julia Gambra', '640 Pineknoll Ave. Richmond Hill, NY 11419', 8122237);
+insert into OWNER values (7, 4, 'Josh Heinzer', '22 Winchester Court Endicott, NY 13760', 2123435);
+insert into OWNER values (8, 5, 'Yohali Sanchez', '9058 Pheasant Lane Brooklyn, NY 11212', 3324565);
+insert into OWNER values (9, 6, 'Nicole Patino', '198 Homer Ave. Deer Park, NY 11720', 9881838);
+insert into OWNER values (10, 7, 'Kelly Boyle', '24 Union Court Brooklyn, NY 11235', 4334554);
+select * from OWNER;
